@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yehan Wickramasinghe </h1>
-<h3 align="center">Software Engineering Undergraduate | AI/ML & IoT Enthusiast</h3>
+<h3 align="center">Software Engineering Undergraduate | AI/ML, IoT & Robotics Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yehan_wic&label=Profile%20views&color=0e75b6&style=flat" alt="Yehan_wic" />
@@ -9,25 +9,33 @@
 
 ### 🚀 About Me  
 - 🎓 Undergraduate at **University of Sri Jayewardenepura**  
-- 🤖 Passionate about **AI/ML, Embedded Systems, and IoT**  
-- 🔭 Currently working on **ESP32, TinyML, and ML projects**  
-- 🌱 Learning **Advanced Machine Learning & Edge AI**  
+- 🤖 Passionate about **AI/ML, IoT, Robotics and Computer Vision**  
+- 🔬 Currently working on **Jetson Orin Nano, ESP32, TinyML, ML and Robotics projects**
+- 📊 Experienced in **Machine Learning, Deep Learning and Arduino projects** 
+- 🌱 Learning **Advanced Machine Learning, Robotics & Edge AI**  
 - 🤝 Open to collaborating on **AI, ML, IoT, robotics, and embedded projects**  
-- 💬 Ask me about **ESP32, Python, Machine Learning, Arduino, Embedded Systems**  
+- 💬 Ask me about **Jetson Nano, ESP32, Python, Machine Learning, Arduino, Embedded Systems**  
 
 ---
 
 ### 🌐 Connect With Me  
+
 <p align="center">
-<a href="https://www.linkedin.com/in/yehan-wickramasinghe" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://twitter.com/Yehan_wic" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://fb.com/YOUR_FB" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/yehan-wickramasinghe">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/Yehan_wic">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/1Nhtt48adn/?mibextid=wwXIfr">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/yehan_wic?igsh=MTN4OHpxM3huMTJyYw%3D%3D&utm_source=qr">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+  </a>
 </p>
 
 ---
@@ -70,15 +78,15 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yehan-wic&show_icons=true&theme=default" />
 </p>
 
 ### 🔥 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehan-wic&layout=compact" />
 </p>
 
 ### 🌍 Profile Summary  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yehan-wic&theme=github" />
 </p>
